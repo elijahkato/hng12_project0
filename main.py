@@ -9,8 +9,8 @@ app = FastAPI()
 def fetch_info():
     return {
         "email": "elijahosas@gmail.com",  
-        "current_datetime": datetime.now(pytz.utc).replace(microsecond=0).isoformat(),
-        "github_url": "https://github.com/elijahkato/hng12_project0.git" 
+        "current_datetime": datetime.now(timezone.utc).replace(microsecond=0).isoformat().replace("+00:00", "Z"),
+        "github_url": "https://github.com/elijahkato/hng12_project0" 
     }
 
 app.add_middleware(
