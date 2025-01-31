@@ -19,3 +19,6 @@ This is a simple **public API** that provides:
   "current_datetime": "2025-01-31T20:33:46+00:00",
   "github_url": "https://github.com/elijahkato/hng12_project0"
 }
+
+## 🔗 Hire Python Developers
+Looking for expert Python developers? [Click here] (https://hng.tech/hire/python-developers)
