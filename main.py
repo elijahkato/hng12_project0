@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from datetime import datetime
+from datetime import datetime, timezone
 from fastapi.middleware.cors import CORSMiddleware
 import pytz
 
