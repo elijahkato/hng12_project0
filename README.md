@@ -1,7 +1,7 @@
 # HNG12 Backend Stage 0 Task 🚀
 
 This is a simple **public API** that provides:
-- 📧 **Your registered email**
+- 📧 **My registered email**
 - 🕒 **The current UTC datetime (ISO 8601 format)**
 - 🔗 **GitHub repository URL of the API source code**
 
