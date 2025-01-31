@@ -10,7 +10,7 @@ def fetch_info():
     return {
         "email": "elijahosas@gmail.com",  
         "current_datetime": datetime.now(pytz.utc).replace(microsecond=0).isoformat(),
-        "github_url": "hhttps://github.com/elijahkato/hng12_project0.git" 
+        "github_url": "https://github.com/elijahkato/hng12_project0.git" 
     }
 
 app.add_middleware(
